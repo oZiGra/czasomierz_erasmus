@@ -5,13 +5,13 @@
 }
 body {
     background-image: url("tlo.jpeg");
-    background-size: cover;
+    background-repeat: no-repeat;
 }
 .napis {
     margin: auto;
-    font-size: 5vh;
+    font-size: 1.2rem;
     width: 100%;
-    padding: 6% 0;
+    padding: 7.5% 0;
     text-align: center;
 
 }
@@ -19,7 +19,7 @@ body {
     margin: auto;
     padding: 0px 0;
     width: 100%;
-    font-size: 100px;
+    font-size: 5rem;
     text-align: center;
 }
 footer {
